@@ -7,3 +7,7 @@
 
 ![](https://github.com/uraetech/STM32H750-Development-Board/blob/master/Image/map.gif)
 
+JPG도 되나 테스트 중입니다.
+
+![](https://github.com/uraetech/STM32H750-Development-Board/blob/master/Image/stm32h750.jpg)
+
